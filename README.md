@@ -6,6 +6,21 @@ Developed a five-page interactive Power BI dashboard to analyze retail sales per
 
 The project transforms transactional retail data into actionable business insights through data modeling, DAX calculations, time intelligence, and executive-focused visualizations.
 
+## Explore the Power BI Dashboard
+
+**[Download the Interactive Power BI Dashboard (.pbix)](PowerBI/Retail_Sales_Performance.pbix)**
+
+Download the Power BI project file and open it using Microsoft Power BI Desktop to explore the complete five-page interactive dashboard.
+
+**Dashboard features:**
+- Interactive Year slicers for filtering report data.
+- Navigation across five analytical pages.
+- Dynamic KPI cards and performance visualizations.
+- Month-over-month sales growth analysis.
+- Product-ranking bookmarks for switching between highest- and lowest-selling products.
+
+**Note:** Power BI Desktop is required to open the `.pbix` file. Dashboard screenshots are available below for visitors who do not have Power BI installed.
+
 ## Business Objectives
 
 - Monitor revenue, order volume, units sold, and average order value.
